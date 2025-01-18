@@ -91,6 +91,8 @@ li{
 .a:hover::after{
     opacity: 1;
     bottom: 0;
+}
+.a:hover{
     color: white;
 }
 
